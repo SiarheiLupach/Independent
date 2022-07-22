@@ -1,5 +1,5 @@
 body {
-    background-color: #dadffe;
+    background-color: #b8c1fb;
     font-family: Roboto, sans-serif;
     color: #333;
     font-size: 14px;
@@ -8,7 +8,7 @@ body {
 .conteiner {
     margin-left: auto;
     margin-right: auto;
-    padding: 40px;
+    padding: 60px;
     max-width: 1080px;
     display: grid;
     grid-template-columns: auto 1fr 1fr 1fr;
